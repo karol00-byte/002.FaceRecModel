@@ -1,2 +1,3 @@
-# 002.FaceRecModel
-Reference
+
+# Reference
+https://github.com/bubbliiiing/facenet-pytorch
